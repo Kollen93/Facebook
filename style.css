@@ -1,0 +1,19 @@
+body {background-color: whitesmoke;}
+* {font-family: 'Roboto';}
+.face {margin-top: 13.5%; margin-left: 17%; margin-right: 50%; margin-block-end: -17%;}
+.parrafo {font-size: 28.5px; margin-top: 1rem;}
+.inicio {background-color: white; margin-left: 57%; margin-right: 18%;
+padding-top: 25px; padding-bottom: 12px; border: 1px solid white; border-radius: 10px; box-shadow: 1px 2px 3px 3px rgb(213, 213, 213);}
+.forma{text-align: center;}
+.base {margin-left: 57%; margin-right: 17%; margin-top: 2%; text-align: center;}
+.input {width: 350px; height: 48px; font-size: 17px; margin-top: -0.5rem; border-radius: 6px; border: 0.5px; 
+        outline:solid 1px whitesmoke; caret-color: rgb(0, 119, 255);}
+input::placeholder {padding-left: 10px;}
+.input:focus {outline:solid 1px rgb(0, 119, 255);}
+.sesion {background-color: rgb(34, 102, 249); color: white; font-size: 20px; margin-left: 0.7rem; margin-right: 0.7rem;
+        padding-top: 0.7rem; padding-bottom: 0.7rem; margin-top: 12px; font-weight: 700; border-radius: 10px;}
+.olvidar {font-size: 14px; margin-bottom: 30px;}
+.nueva {background-color: rgb(30, 188, 10); color: white; font-size: 17px; font-weight: 700; margin-left: 5.9rem; margin-right: 5.9rem;
+        padding-top: 0.9rem; padding-bottom: 0.9rem; margin-top: 25px; border-radius: 10px;}
+a:link {color: rgb(0, 119, 255);} a:visited {color: rgb(0, 119, 255)}
+a:link.pagina {color: black; font-weight: 800;} a:visited.pagina {color: black; font-weight: 800;}
